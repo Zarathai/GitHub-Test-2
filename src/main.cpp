@@ -13,7 +13,7 @@ void setup() {
   lcd.backlight();
   lcd.setCursor(0,0);
 }
-
+//TEST
 
 void loop() {
   lcd.setCursor(i,i);
